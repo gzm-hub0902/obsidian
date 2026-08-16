@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786915742862-zwzkbihs8",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786915742937-c1dekf9",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786915742848-2nscl39",
+      "timestamp": 1786915742848,
+      "rawDisplayText": "仓库路径",
+      "canonicalText": "仓库路径",
+      "images": [],
+      "contentDigest": "ebfb05582cb378974b7f9eff0647f79182bf685c4a7a4ea7e2227d2a2d49ec7a",
+      "providerUserMessageId": "01a00c7a-6d82-7183-8a73-54ebc7bafb57",
+      "providerAssistantMessageId": "msg_037168ad3b0bde4c016a822ba55e88819596903df98eb9a489"
+    }
+  ]
+}
