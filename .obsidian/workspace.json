@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hihi.md",
+                "file": "file1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hihi"
+              "title": "file1"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "1fc61a407f78a6f0",
   "lastOpenFiles": [
-    "hihi.md",
     "README.md",
+    "file1.md",
+    "2026-08-16.md",
     "price action/1.md",
     "Pasted image 20260816103303.png",
     "price action/2.md",
