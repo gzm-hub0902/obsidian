@@ -494,10 +494,10 @@
   "convertedDocOutputFolder": "",
   "agentMode": {
     "byok": {},
-    "activeBackend": "codex",
+    "activeBackend": "opencode",
     "backends": {},
     "debugFullFrames": true,
-    "welcomeDismissed": false,
+    "welcomeDismissed": true,
     "skills": {
       "folder": "copilot/skills"
     },
@@ -524,6 +524,20 @@
       "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
       "addedAt": 1786930239501,
       "apiKeyKeychainId": null
+    },
+    "c42c2b40-e667-4b78-9541-925af4801c63": {
+      "providerType": "openai-compatible",
+      "displayName": "OpenAI",
+      "baseUrl": "https://api.openai.com/v1",
+      "enableCors": false,
+      "requiresApiKey": true,
+      "origin": {
+        "kind": "byok",
+        "catalogProviderId": "openai"
+      },
+      "providerId": "c42c2b40-e667-4b78-9541-925af4801c63",
+      "addedAt": 1786930984272,
+      "apiKeyKeychainId": "copilot-v9bd25cc1-provider-c42c2b40-e667-4b78-9541-925af4801c63"
     }
   },
   "configuredModels": [
@@ -589,6 +603,168 @@
       },
       "configuredModelId": "5aab7d4a-c7fc-4011-b9ff-09c8a7ed612f",
       "configuredAt": 1786930239631
+    },
+    {
+      "configuredModelId": "2d5f3c6a-7c59-4a9a-aefc-f2a6d626324d",
+      "providerId": "c42c2b40-e667-4b78-9541-925af4801c63",
+      "info": {
+        "id": "gpt-5.6-sol",
+        "displayName": "GPT-5.6 Sol",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-07-09",
+        "cost": {
+          "input": 5,
+          "output": 30,
+          "cacheRead": 0.5,
+          "cacheWrite": 6.25
+        }
+      },
+      "configuredAt": 1786930984287
+    },
+    {
+      "configuredModelId": "080296b3-25f7-4422-9ef1-0391a4f53797",
+      "providerId": "c42c2b40-e667-4b78-9541-925af4801c63",
+      "info": {
+        "id": "gpt-5.6-terra",
+        "displayName": "GPT-5.6 Terra",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-07-09",
+        "cost": {
+          "input": 2,
+          "output": 12,
+          "cacheRead": 0.2,
+          "cacheWrite": 2.5
+        }
+      },
+      "configuredAt": 1786930984287
+    },
+    {
+      "configuredModelId": "1de052a4-5496-413d-bb4c-698920978f75",
+      "providerId": "c42c2b40-e667-4b78-9541-925af4801c63",
+      "info": {
+        "id": "gpt-5.6-luna",
+        "displayName": "GPT-5.6 Luna",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-07-09",
+        "cost": {
+          "input": 0.2,
+          "output": 1.2,
+          "cacheRead": 0.02,
+          "cacheWrite": 0.25
+        }
+      },
+      "configuredAt": 1786930984287
+    },
+    {
+      "configuredModelId": "1499e880-b617-43dd-b66f-793ecfdba89b",
+      "providerId": "c42c2b40-e667-4b78-9541-925af4801c63",
+      "info": {
+        "id": "gpt-5.5",
+        "displayName": "GPT-5.5",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-04-23",
+        "cost": {
+          "input": 5,
+          "output": 30,
+          "cacheRead": 0.5
+        }
+      },
+      "configuredAt": 1786930984287
+    },
+    {
+      "configuredModelId": "22e31079-c3fd-4cc4-87e9-3e6c3051baba",
+      "providerId": "c42c2b40-e667-4b78-9541-925af4801c63",
+      "info": {
+        "id": "gpt-5.5-pro",
+        "displayName": "GPT-5.5 Pro",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-04-23",
+        "cost": {
+          "input": 30,
+          "output": 180
+        }
+      },
+      "configuredAt": 1786930984287
     }
   ],
   "backends": {
@@ -596,7 +772,21 @@
       "enabledModels": [
         "66c4d88c-f3ee-4698-99b7-2f6022b2edab",
         "108d2c43-15ad-4917-9e97-6df7a1c1400b",
-        "fc2a7245-d1ac-40a9-b1fe-f6abe8a26004"
+        "fc2a7245-d1ac-40a9-b1fe-f6abe8a26004",
+        "2d5f3c6a-7c59-4a9a-aefc-f2a6d626324d",
+        "080296b3-25f7-4422-9ef1-0391a4f53797",
+        "1de052a4-5496-413d-bb4c-698920978f75",
+        "1499e880-b617-43dd-b66f-793ecfdba89b",
+        "22e31079-c3fd-4cc4-87e9-3e6c3051baba"
+      ]
+    },
+    "chat": {
+      "enabledModels": [
+        "2d5f3c6a-7c59-4a9a-aefc-f2a6d626324d",
+        "080296b3-25f7-4422-9ef1-0391a4f53797",
+        "1de052a4-5496-413d-bb4c-698920978f75",
+        "1499e880-b617-43dd-b66f-793ecfdba89b",
+        "22e31079-c3fd-4cc4-87e9-3e6c3051baba"
       ]
     }
   },
