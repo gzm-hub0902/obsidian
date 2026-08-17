@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "accentColor": "#05cdff"
 }
