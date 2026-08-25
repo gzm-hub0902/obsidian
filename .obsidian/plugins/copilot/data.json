@@ -553,29 +553,11 @@
     {
       "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
       "info": {
-        "id": "opencode/deepseek-v4-flash-free",
-        "displayName": "OpenCode Zen/DeepSeek V4 Flash Free"
-      },
-      "configuredModelId": "108d2c43-15ad-4917-9e97-6df7a1c1400b",
-      "configuredAt": 1786930239613
-    },
-    {
-      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
-      "info": {
         "id": "opencode/hy3-free",
         "displayName": "OpenCode Zen/Hy3 Free"
       },
       "configuredModelId": "fc2a7245-d1ac-40a9-b1fe-f6abe8a26004",
       "configuredAt": 1786930239624
-    },
-    {
-      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
-      "info": {
-        "id": "opencode/laguna-s-2.1-free",
-        "displayName": "OpenCode Zen/Laguna S 2.1 Free"
-      },
-      "configuredModelId": "96708bab-fab9-46e8-b12e-dac658faa65c",
-      "configuredAt": 1786930239628
     },
     {
       "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
@@ -765,13 +747,30 @@
         }
       },
       "configuredAt": 1786930984287
+    },
+    {
+      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
+      "info": {
+        "id": "opencode/muse-spark-1.2-contributor-free",
+        "displayName": "OpenCode Zen/Muse Spark 1.2 Free"
+      },
+      "configuredModelId": "b2664ae3-e283-41a6-828a-38f1b6f36e88",
+      "configuredAt": 1787628394013
+    },
+    {
+      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
+      "info": {
+        "id": "opencode/x-preview-f-free",
+        "displayName": "OpenCode Zen/Ox Alpha Free (Unlimited)"
+      },
+      "configuredModelId": "9cb93e27-59a1-4fd3-a76e-389e02fee521",
+      "configuredAt": 1787628394018
     }
   ],
   "backends": {
     "opencode": {
       "enabledModels": [
         "66c4d88c-f3ee-4698-99b7-2f6022b2edab",
-        "108d2c43-15ad-4917-9e97-6df7a1c1400b",
         "fc2a7245-d1ac-40a9-b1fe-f6abe8a26004",
         "2d5f3c6a-7c59-4a9a-aefc-f2a6d626324d",
         "080296b3-25f7-4422-9ef1-0391a4f53797",
