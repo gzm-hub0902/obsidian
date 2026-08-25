@@ -10,4 +10,4 @@ When placing trade, pay attention to **context**: big picture, all of the bars t
 
 Trade based on price action. Volume is a false god, that beginners hope will protect them from a painful loss.
 
-
+2C
