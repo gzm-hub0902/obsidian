@@ -8,3 +8,5 @@ atteindre
 obtenir获得
 被。。。（强调动作） par
 不然用de
+avoir所有的及物动词和大部分不及物动词
+etre表示位移，状况变化的不及物动词，
