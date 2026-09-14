@@ -21,4 +21,13 @@ tout toute tous toutes
 单数=整个
 复数=全部的
 tout le monde
-toute la 
+toute la nuit
+tous les jours
+toute personne
+a toute heure
+
+tout代词 = 一切事物
+tout tous toutes
+
+tout adv. 十分
+修饰以辅音/嘘音h开头的阴性形容词，配合性数
