@@ -21,7 +21,8 @@ la publicité propose des possibilités des activités
 donner envie aux francais des activités en week-end
 ils ne perdent pas de temps
 
-副动词
+现在分词用法：
 1. 相当于qui+变位动词， qui引导的关系从句
-2. je cherche un homme 
+2. je cherche un homme *qui connâit* (connaissant) le français et l'anglais
+3. 相当于quand引导的时间状语从句
 
