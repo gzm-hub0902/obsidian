@@ -14,5 +14,10 @@ pecheur
 être prêt à faire
 réduction de ...
 rendre visite à qn
+faire du cheval 骑马
+bateau
+faire de la randonnée
+la publicité propose des possibilités des activités
+donner envie aux francais des activités en week-end
 
 
