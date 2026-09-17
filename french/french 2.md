@@ -21,3 +21,7 @@ la publicité propose des possibilités des activités
 donner envie aux francais des activités en week-end
 ils ne perdent pas de temps
 
+副动词
+1. 相当于qui+变位动词， qui引导的关系从句
+2. je cherche un homme 
+
