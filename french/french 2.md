@@ -19,5 +19,5 @@ bateau
 faire de la randonnée
 la publicité propose des possibilités des activités
 donner envie aux francais des activités en week-end
-
+ils ne perdent pas de temps
 
