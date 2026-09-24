@@ -26,3 +26,13 @@ ils ne perdent pas de temps
 2. je cherche un homme *qui connâit* (connaissant) le français et l'anglais
 3. 相当于quand引导的时间状语从句
 
+
+Lec 24
+attirer le regard de qcn
+attirer l'attention
+en face de
+face à des difficultés
+manifester  - manifestant
+un million de
+participer à qch
+regrouper les familles / les habitants
