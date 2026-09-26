@@ -733,15 +733,6 @@
     {
       "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
       "info": {
-        "id": "opencode/muse-spark-1.2-contributor-free",
-        "displayName": "OpenCode Zen/Muse Spark 1.2 Free"
-      },
-      "configuredModelId": "b2664ae3-e283-41a6-828a-38f1b6f36e88",
-      "configuredAt": 1787628394013
-    },
-    {
-      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
-      "info": {
         "id": "opencode/ling-3.0-flash-fin-free",
         "displayName": "OpenCode Zen/Ling 3.0 Flash Fin Free"
       },
