@@ -765,6 +765,42 @@
       },
       "configuredModelId": "5fac7b1c-f48e-4aad-afd7-5909f8526a3b",
       "configuredAt": 1790216263927
+    },
+    {
+      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
+      "info": {
+        "id": "opencode/exo-free",
+        "displayName": "OpenCode Zen/Exo Free"
+      },
+      "configuredModelId": "bf121333-49ce-4334-8517-7d164ea46460",
+      "configuredAt": 1791418258436
+    },
+    {
+      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
+      "info": {
+        "id": "opencode/fledge-alpha-free",
+        "displayName": "OpenCode Zen/Fledge Alpha Free"
+      },
+      "configuredModelId": "75e768d7-5914-4a96-abbb-8114b762c493",
+      "configuredAt": 1791418258441
+    },
+    {
+      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
+      "info": {
+        "id": "opencode/ling-3.1-flash-free",
+        "displayName": "OpenCode Zen/Ling 3.1 Flash Free"
+      },
+      "configuredModelId": "c1784df5-c2b6-46fb-8580-79e69d57ba92",
+      "configuredAt": 1791418258443
+    },
+    {
+      "providerId": "d8d788a0-46d8-4ed5-96b3-f4fa41ac7129",
+      "info": {
+        "id": "opencode/longcat-2.5-preview-free",
+        "displayName": "OpenCode Zen/LongCat 2.5 Preview Free"
+      },
+      "configuredModelId": "7f121cfa-a8f4-4bd0-8c5c-9040e8641713",
+      "configuredAt": 1791418258444
     }
   ],
   "backends": {
