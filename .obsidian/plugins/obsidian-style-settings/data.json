@@ -14,5 +14,11 @@
   "blue-topaz-theme@@bt-status-on": false,
   "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
   "blue-topaz-theme@@brightness-4-bg": 0.5,
-  "blue-topaz-theme@@blur-depth": 6
+  "blue-topaz-theme@@blur-depth": 6,
+  "blue-topaz-theme@@highlight-style": "bt-default-highlight",
+  "blue-topaz-theme@@text-highlight-bg-h-light": 34,
+  "blue-topaz-theme@@text-highlight-bg-l-dark": 38,
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@background-primary-bg-4-bt@@light": "#CE0B0BA3"
 }
